@@ -190,7 +190,7 @@ print("Recommended crop:", model.predict(sample)[0])
 ---
 
 ## 👤 Author
-**Nitish Savant**
+**Nitish SaWant**
 D Y Patil International University
 GitHub: [@nitish1308](https://github.com/nitish1308)
 
